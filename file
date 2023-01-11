@@ -1,0 +1,42 @@
+// for (i=0; i<=2;i++){
+// console.log('*')
+// }
+
+// const prompt = require("prompt-sync")();
+//  let n = prompt("enter value of n")
+//  if (a=='abdulah'){
+// for (i=0;i<=20;i++)
+// {
+//     console.log(i);
+// }
+//  }
+// let obj ={
+//     harry:60,
+//     harris:51,
+//     shakeel:95
+// }
+// // console.log(obj);
+// // for (let a in obj ){
+// //     console.log('marks of '+a+' are '+obj[a]);
+// // }
+// for (let a of 'harry' ){
+//     console.log(a);
+// }
+
+
+const prompt = require("prompt-sync")();
+ let n = prompt("enter value of n")
+n=Number.parseInt(n)
+let i=0
+// while(i<n){
+//     console.log(i)
+//     i++
+
+// }
+do{
+    i++;
+    console.log(i)
+}
+while(i<n){
+  
+}
